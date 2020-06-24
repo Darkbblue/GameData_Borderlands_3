@@ -1,2 +1,3 @@
 # GameData_Borderlands_3
 as reference
+使用分卷压缩的形式上传，请下载全部压缩包并在同一目录下解压缩
